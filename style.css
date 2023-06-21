@@ -1,0 +1,17 @@
+.titulos{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.lista-compras li{
+    font-size: 23PX;
+}
+
+.exercicio3 p{
+    margin: 40px;
+    padding: 20px;
+    background-color: #f5f5f5;
+}
+
+.exercicio3 .destacado{
+    background-color: #e21995;
+}
